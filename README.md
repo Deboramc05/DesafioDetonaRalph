@@ -3,8 +3,10 @@
 Esse projeto foi proposto por Felipe Aguiar da plataforma educacional DIO.
 
 ## 🖥 Preview:
-[Imagem do Projeto](./src/img/jogo.JPG)
-- Venha ver como ficou o projeto acessando [aqui aqui e jogue agora]()
+
+- Venha ver como ficou o projeto acessando [aqui aqui e jogue agora](https://deboramc05.github.io/DesafioDetonaRalph/)
+[Imagem do Projeto] 
+<img src="/src/img/jogo.JPG" atl="imagem-do-jogo-detona-ralph">
 
 ## 👨‍💻 Objetivo:
 - Reproduzir passo passo o projeto visto em aula.
